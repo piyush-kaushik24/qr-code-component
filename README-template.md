@@ -1,3 +1,5 @@
+# QR Code Component
+
 ## Overview
 
 This is my solution to Frontend Mentor QR code component.
@@ -15,23 +17,22 @@ This is my solution to Frontend Mentor QR code component.
 
 - Semantic HTML5 markup
 - CSS3
-- CSS custom properties
 - Flexbox
 - Mobile-first workflow
 
+
+
 ### What I learned
 
-- How to use structure a page using semantic HTML.
+- How to structure a page using semantic HTML.
 - How to center a component using Flexbox.
-- How to make response layouts.
-- How to use CSS custom properties.
-  T
+- How to make responsive layouts.
 
 ### Continued development
 
 - Further improve my responsive design skills.
 - Become more confident in choosing the right CSS properties for different layouts.
-- Improve my understanding of responsive design and layout techniques.
+- Practice building responsive layouts with different CSS techniques.
 
 ### Useful resources
 
