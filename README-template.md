@@ -1,4 +1,3 @@
-
 ## Overview
 
 This is my solution to Frontend Mentor QR code component.
@@ -6,6 +5,9 @@ This is my solution to Frontend Mentor QR code component.
 ### Screenshot
 
 ![QR Code Component](./screenshot.png)
+
+- Solution URL: [GitHub Repository](https://github.com/piyush-kaushik24/qr-code-component)
+- Live Site URL: [Live Site](https://piyush-kaushik24.github.io/qr-code-component/)
 
 ## My process
 
@@ -17,29 +19,24 @@ This is my solution to Frontend Mentor QR code component.
 - Flexbox
 - Mobile-first workflow
 
-
-
-
-
 ### What I learned
 
 - How to use structure a page using semantic HTML.
 - How to center a component using Flexbox.
 - How to make response layouts.
-T
+- How to use CSS custom properties.
+  T
 
 ### Continued development
 
-- Improve futher my responsive design skills.
-- Learn better what property should be used.
-
-
+- Further improve my responsive design skills.
+- Become more confident in choosing the right CSS properties for different layouts.
+- Improve my understanding of responsive design and layout techniques.
 
 ### Useful resources
 
 - Frontend Mentor
 - MDN Web Docs
-
 
 ### AI Collaboration
 
@@ -49,8 +46,3 @@ I used ChatGPT as a learning assistant to understand CSS concepts, debug layout 
 
 - Github - [piyush-kaushik24](https://github.com/piyush-kaushik24)
 - Frontend Mentor - [@piyush-kaushik24](https://www.frontendmentor.io/profile/piyush-kaushik24)
-
-
-
-
-
