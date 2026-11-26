@@ -20,13 +20,13 @@ This is my solution to Frontend Mentor QR code component.
 - Flexbox
 - Mobile-first workflow
 
-
-
 ### What I learned
 
 - How to structure a page using semantic HTML.
-- How to center a component using Flexbox.
 - How to make responsive layouts.
+- How to center a card using Flexbox properties like `justify-content` and `align-items`.
+- Learned about the importance of mobile-first approach in responsive design as it becomes very difficult to go from desktop to mobile.
+- Learned the importance of `min-height: 100vh` to center content vertically in the viewport.
 
 ### Continued development
 
